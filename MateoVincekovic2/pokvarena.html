@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nove knjige u knjižnici</title>
+</head>
+<body>
+
+    <h1>Nove knjige u knjižnici</h1>
+    <hr>
+
+    <p>Ovog mjeseca knjižnica je dobila <i>dvadeset novih naslova. Najtraženiji su u tablici ispod.</p>
+
+    <p>Raspored radionica nalazi se na <a href="raspored">posebnoj stranici</a>.</p>
+
+    <h2>Nove knjige</h2>
+    <table border="1" cellpadding="6">
+        <tr>
+            <th>Polica</th>
+            <th>Naslov</th>
+        </tr>
+        <tr>
+            <td rowspan="3">Lektira</td>
+            <td>Mali princ</td>
+        </tr>
+        <tr>
+            <td>Hobit</td>
+        </tr>
+        <tr>
+            <td>Romani</td>
+            <td>Harry Potter i kamen mudraca</td>
+        </tr>
+    </table>
+
+    <h2>Gdje su računala?</h2>
+    <img src="slike/plan_knjiznice.png" alt="Plan knjižnice" usemap="#plan">
+    <map name="plan">
+        <area shape="rect" coords="60,260,220,340" href="raspored.html" alt="Info pult" title="Info pult"> <!--POPRAVAK: falila je jedna kordinata-->
+    </map>
+
+    <p><img scr="slike/racunala.png" width="300" alt="Računalni kutak"></p>
+
+    <!-- odjeljak s kontaktom --> <!--POPRAVAK: falila je jedna crtica u komentaru-->
+    <h3>Kontakt</h3>
+    <p>Pitanja pošalji na <a href="mailto:knjiznica@example.com">knjiznica@example.com</a>.</p>
+
+</body>
+</html>

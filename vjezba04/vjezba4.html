@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tablice</title>
+    <link rel="stylesheet" href="..\stil.css">
+</head>
+<body>
+    <p ><a href="../index/index.html">Vrati se na početnu</a></p>
+    <br><br>
+    Ako želiš saznati sve o tablicama, otvori <a href="vazno_o_tablicama.pdf" target="_blank">pdf</a>
+    <h1>Jednostavna tablica</h1>
+    <table border="1" width="100%" cellpadding="10px">
+        <tr align="center">
+            <tr>
+                <th colspan="5">Dani u tjednu</th>
+            </tr>
+            <td align="center" colspan="2">Ponedeljak</td>
+            <td>Utorak</td>
+            <td rowspan="2">Srijeda</td>
+            <td>Četvrtak</td>
+            <td>Petak</td>
+        </tr>
+        <tr>
+            <td>Ponedeljak</td>
+            <td>Utorak</td>
+            <td>Četvrtak</td>
+            <td>Petak</td>
+        </tr>
+    </table>
+
+    <h1>Izrada tablice prema predlošku</h1>
+    <table border="1">
+        <tr>
+            <th colspan="5">naslov tablice</th>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>1.<br>stupac</td>
+            <td>2.<br>stupac</td>
+            <td>3.<br>stupac</td>
+            <td>4.<br>stupac</td>
+        </tr>
+        <tr>
+            <td>1.red</td>
+            <td rowspan="3" bgcolor="orange">&nbsp;</td>
+            <td rowspan="2" bgcolor="green"></td>
+            <td>&nbsp;</td>
+            <td bgcolor="red">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>2.red</td>
+            <td colspan="2" bgcolor="yellow">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>3.red</td>
+            <td colspan="3" bgcolor="purple">&nbsp;</td>
+        </tr>
+        <caption style="caption-side: bottom;">ovo je opis tablice</caption>
+    </table>
+    
+</body>
+</html>

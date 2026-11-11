@@ -1,0 +1,76 @@
+TEKSTOVI ZA STRANICE (kopiraj ih, ne moraš ih prepisivati)
+==========================================================
+
+---------- index.html ----------
+Vikend u Daruvaru
+
+Daruvar je grad u zapadnoj Slavoniji, poznat po termalnim izvorima i Julijevom parku. Ovog vikenda grad se predstavlja sajmom domaćih proizvoda, koncertima i šetnjama s vodičem. Svi događaji održavaju se u središtu grada.
+
+Što te čeka
+Program vikenda
+Znamenitosti
+Kontakt
+
+Tri razloga za dolazak
+Termalna voda u Daruvarskim toplicama
+Šetnja Julijevim parkom
+Češka kuhinja i domaći proizvodi
+
+Kontakt
+Za pitanja piši na
+
+Radno vrijeme turističkog ureda
+ponedjeljak – petak    8:00 – 16:00
+subota                 9:00 – 13:00
+nedjelja               zatvoreno
+
+Natrag na vrh
+
+
+---------- program.html ----------
+Program vikenda
+Vikend u Daruvaru
+Dan | Vrijeme | Događaj | Mjesto
+Subota
+10:00 | Sajam domaćih proizvoda | Trg kralja Tomislava
+12:00 | Koncert tamburaša
+14:00 | Slobodno vrijeme
+16:00
+18:00 | Večer češke kuhinje | Češki narodni dom
+Nedjelja
+9:00 | Šetnja s vodičem | Julijev park
+11:00 | Dječja radionica
+13:00 | Kupanje u toplicama | Daruvarske toplice
+Ulaz je slobodan na sva događanja osim kupanja u toplicama.
+Program se održava i po kiši.
+Natrag na početnu
+
+
+---------- znamenitosti.html ----------
+Znamenitosti
+Klikni na objekt na planu grada.
+
+Julijev park
+Julijev park nalazi se u središtu Daruvara, uz zgrade toplica. Stazama kroz park prolazi se pokraj starih stabala, fontane i klupa za odmor.
+
+Vila Arcadia
+Vila Arcadia stoji u Julijevom parku i jedna je od najpoznatijih zgrada u gradu.
+
+Daruvarske toplice
+Daruvarske toplice koriste termalnu vodu koja izvire u samom gradu. Uz bazene nude liječenje i rehabilitaciju.
+Termalna voda
+Podzemna voda koja na površinu izlazi topla.
+Rehabilitacija
+Oporavak nakon bolesti ili ozljede uz vježbe i terapije.
+
+Natrag na plan
+
+Gdje smo?
+
+Natrag na početnu
+
+
+---------- BONUS: info/dolazak.html ----------
+Kako doći u Daruvar
+Na planu središta grada potraži turistički ured. Ondje se dobivaju ulaznice i karta grada.
+Natrag na početnu

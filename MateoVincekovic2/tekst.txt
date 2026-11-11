@@ -1,0 +1,52 @@
+TEKSTOVI ZA ISPRAVAK – U ŠKOLSKOJ KNJIŽNICI
+Kopiraj tekst odavde, ne prepisuj ga.
+
+=== raspored.html ===
+
+Radionice u školskoj knjižnici
+
+Dan | Vrijeme | Radionica | Prostor
+
+Ponedjeljak
+13:00 | Čitateljski klub | Čitaonica
+14:00 | Pisanje recenzija
+15:00 | Slobodno čitanje
+16:00
+
+Srijeda
+13:00 | Kviz znanja | Računalni kutak
+14:00 | Izrada straničnika | Kutak za priče
+
+Prijave na info pultu do petka.
+
+Sve radionice su besplatne.
+
+Plan knjižnice
+
+=== plan.html ===
+
+Plan knjižnice
+
+Klikni na dio knjižnice na planu.
+
+Čitaonica
+U čitaonici su stolovi za tihi rad i police s novinama i časopisima. Ovdje se održavaju čitateljski klub i radionica pisanja recenzija.
+
+Čitaonica ima dvadeset mjesta za sjedenje i šest stolova uz prozore. Na policama su dnevne novine, tjedni i mjesečni časopisi te stručni časopisi za informatiku, elektrotehniku i strojarstvo.
+
+Čitateljski klub sastaje se svaki ponedjeljak. Na sastanku se razgovara o knjizi koja je dogovorena tjedan ranije, a popis knjiga za cijelu godinu nalazi se na oglasnoj ploči pokraj ulaza.
+
+Na radionici pisanja recenzija učenici pišu kratke osvrte na pročitane knjige. Najbolje recenzije objavljuju se na mrežnoj stranici škole i u školskom listu.
+
+Kutak za priče
+Kutak za priče je okrugli tepih s jastucima. U njemu se čita naglas i održava slobodno čitanje.
+
+U kutku su police sa slikovnicama, stripovima i zbirkama kratkih priča. Knjige se mogu čitati na licu mjesta ili posuditi na info pultu na rok od dva tjedna.
+
+Slobodno čitanje održava se svaki ponedjeljak u 15 sati. Svatko donosi knjigu po vlastitom izboru i čita je u tišini, a na kraju sata se ukratko predstavi drugima.
+
+Jednom mjesečno u kutku gostuje pisac ili ilustrator. Raspored gostovanja objavljuje se na info pultu i na mrežnoj stranici škole.
+
+Natrag na plan
+
+Raspored radionica
